@@ -1,2 +1,2 @@
-# Dam-Reservoir-Detection
-Dam reservoir detection using point-level and prior-guided metric learning
+# Dam-Reservoir-Extraction
+Dam reservoir extraction using point-level and prior-guided metric learning
