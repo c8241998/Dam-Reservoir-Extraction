@@ -30,7 +30,7 @@ Download dataset from [google drive](https://drive.google.com/file/d/14ley7T2J0V
 ```
 
 # Main Results
-![](./results.PNG) 
+![](./results.png) 
 
 The segmentation model takes DeepLabV3+ as the backbone. We use an input image resolution of 256 × 256, batch size of 4, initial learning rate of 0.0003, and apply the polynomial decay with a factor of 0.9. The network is optimized by the Adam optimizer with 150 epochs in total. Data augmentation is applied to training images, which includes random horizontal and vertical flip, random brightness change, random rotation and random channel shift.
 
