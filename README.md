@@ -1,5 +1,5 @@
 # Dam-Reservoir-Extraction
-This is the code base for IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING (TGRS) paper [Dam reservoir extraction from remote sensing
+This is the code base for IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING (TGRS 2022) paper [Dam reservoir extraction from remote sensing
 imagery using tailored metric learning strategies](https://kclpure.kcl.ac.uk/portal/en/publications/dam-reservoir-extraction-from-remote-sensing-imagery-using-tailored-metric-learning-strategies(ff518452-1788-4422-9781-9c4d43e7ae5f).html)
 
 # Prepare data
