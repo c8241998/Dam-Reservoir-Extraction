@@ -1,6 +1,6 @@
 # Dam-Reservoir-Extraction
 This is the code base for IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING (TGRS 2022) paper [Dam reservoir extraction from remote sensing
-imagery using tailored metric learning strategies](https://kclpure.kcl.ac.uk/portal/en/publications/dam-reservoir-extraction-from-remote-sensing-imagery-using-tailored-metric-learning-strategies(ff518452-1788-4422-9781-9c4d43e7ae5f).html)
+imagery using tailored metric learning strategies](https://ieeexplore.ieee.org/document/9768672)
 
 # Prepare data
 Download dataset from [google drive](https://drive.google.com/file/d/14ley7T2J0Vy2rP1ezDq5WH2coJPBvzVc/view?usp=sharing) or [BaiduYun (code: kd6c)](https://pan.baidu.com/s/1akK5K5gyircO51mmqgdA7A) and unzip it into the the ./dataset directory as below.
@@ -133,15 +133,13 @@ Just start with our python script in the notebook under ./pipeline directory.
 # Citation
 
 ```
-@article{ff5184521788442297819c4d43e7ae5f,
-title = "Dam reservoir extraction from remote sensing imagery using tailored metric learning strategies.",
-author = "{Van Soesbergen}, Arnout and Chu Zedong and Miaojing Shi and Mark Mulligan",
-year = "2022",
-month = apr,
-day = "25",
-language = "English",
-journal = "IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING",
-issn = "0196-2892",
-publisher = "Institute of Electrical and Electronics Engineers Inc.",
-}
+@ARTICLE{9768672,
+  author={Van Soesbergen, Arnout and Chu, Zedong and Shi, Miaojing and Mulligan, Mark},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Dam reservoir extraction from remote sensing imagery using tailored metric learning strategies}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TGRS.2022.3172883}}
 ```
